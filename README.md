@@ -7,7 +7,7 @@ _ＡＥＳＴＨＥＴＩＣＳ_ (screenshots coming ＳＯＯＮ)
 * `aes <type> rm` removes the effect
 * `aes clear` clears all effects, locks you in place for a few seconds
 
-##ＦＵＴＵＲＥ changes
+## ＦＵＴＵＲＥ changes
 * Add more IDs, if you have suggestions/want something added hit me up
 * Screenshots
 * Less shit code

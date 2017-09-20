@@ -168,7 +168,7 @@ var etc = [46750,46751,88605,429015,457002,460004,476611,476612,476613,476614,78
 		if (arg3 == 'rm') {
 			dispatch.toClient('S_ABNORMALITY_END', 1, {
 			target: pcid,
-			id: ground[effect]
+			id: etc[effect]
 		})
 		}
 		}

@@ -9,3 +9,7 @@
 * Add more IDs, if you have suggestions/want something added hit me up
 * Screenshots
 * Less shit code
+
+## Credists
+* Everyone I stole code off
+* Trololo for S_AERO

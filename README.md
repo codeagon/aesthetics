@@ -10,6 +10,6 @@
 * Screenshots
 * Less shit code
 
-## Credists
+## Credits
 * Everyone I stole code off
 * Trololo for S_AERO

@@ -1,4 +1,5 @@
 # A E S T H E T I C S
+Ａｅｓｔｈｅｔｉｃ　ｔｅｒａ　ｍｏｄ
 ## _Ｃｏｍｍａｎｄｓ_
 * `aes sky <1-707>` Changes the sky
 * `aes <type> <id>` Applies various effects. Types are `ａｕｒａ，　ｓｈｉｅｌｄ，　ｈａｎｄ，　ｇｒｏｕｎｄ，　ｅｔｃ` just keep shoving IDs in until nothing new happens. Some abnormalities will overwrite others and cause nothing to happen. Some abnormalities (the water one in particular) will lag the shit out of you.

@@ -1,5 +1,5 @@
 # A E S T H E T I C S
-[Screenshot](https://i.imgur.com/4pcmLQp.jpg)
+![Screenshot](https://i.imgur.com/4pcmLQp.jpg)
 Ａｅｓｔｈｅｔｉｃ　ｔｅｒａ　ｍｏｄ
 ## _Ｃｏｍｍａｎｄｓ_
 * `aes sky <1-707>` Changes the sky. AeroSet list can be found [here.](https://docs.google.com/spreadsheets/d/1Inba-tW70grzqisvpdFPpKFfgz5XTptFygjUNb1T1hw/edit?usp=sharing)

@@ -41,7 +41,7 @@ var etc = [0,46750,46751,88605,429015,457002,460004,476611,476612,476613,476614,
 		snpcy = event.y
 		snpcz = event.z
 		});
-  dispatch.hook('S_ABNORMALITY_BEGIN', 1, {filter: {fake: null}}, event =>{
+  dispatch.hook('S_ABNORMALITY_BEGIN', 2, {filter: {fake: null}}, event =>{
 		if (event.source == 69696969){
 		fab.push(event.id)}
   })
